@@ -13,3 +13,5 @@ Tested On:
   Windows 10
   Arch Linux
   Ubuntu
+
+![alt text](https://raw.githubusercontent.com/Hrishi2312/MyNotepad/master/MyNotepad.png)
