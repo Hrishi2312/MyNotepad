@@ -14,4 +14,4 @@ Tested On:
   Arch Linux
   Ubuntu
 
-![alt text](https://raw.githubusercontent.com/Hrishi2312/MyNotepad/MyNotepad.png)
+![alt text](https://github.com/Hrishi2312/MyNotepad/blob/master/MyNotepad.PNG)
